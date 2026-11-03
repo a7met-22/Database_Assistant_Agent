@@ -377,12 +377,3 @@ need explicit contracts, safe fallbacks, and application-level control
 over what each decision is allowed to trigger.**
 
 ------------------------------------------------------------------------
-
-## Author
-
-Add your name, GitHub profile, and portfolio link here.
-
-## License
-
-No license has been specified. Add a `LICENSE` file before presenting
-the repository as an open-source project.
